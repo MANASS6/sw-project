@@ -36,6 +36,7 @@ CREATE TABLE IF NOT EXISTS `appointment` (
 ) ENGINE=MyISAM DEFAULT CHARSET=ucs2 AUTO_INCREMENT=1 ;
 
 --
+
 -- Dumping data for table `appointment`
 --
 
